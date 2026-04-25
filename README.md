@@ -63,9 +63,6 @@ uv tool install kimi-cli
 - **解决方案**：在插件设置的 `Environment` 标签页中，将 `PATH` 设置为包含 `kimi` 所在目录的值。
 - **macOS/Linux**: 通常是 `/Users/你的用户名/.local/bin`。
 
-### 技能图标不显示闪电
-Kimi 的技能识别依赖于其“思考”过程。如果识别失败，请确保你的 Skill 文件存放在 `.claude/skills/` 目录下。
-
 ## 📄 许可证
 
 本项目遵循 [MIT License](LICENSE)。
